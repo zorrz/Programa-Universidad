@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\P1\\Desktop\\Guia4\\Guia4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E25DFFF-088A-4D96-B4A5-475B84D795A6}|Guia4.csproj|C:\\Users\\P1\\Desktop\\Guia4\\Guia4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E25DFFF-088A-4D96-B4A5-475B84D795A6}|Guia4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E25DFFF-088A-4D96-B4A5-475B84D795A6}|Guia4.csproj|C:\\Users\\P1\\Desktop\\Guia4\\Guia4\\universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E25DFFF-088A-4D96-B4A5-475B84D795A6}|Guia4.csproj|solutionrelative:universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E25DFFF-088A-4D96-B4A5-475B84D795A6}|Guia4.csproj|C:\\Users\\P1\\Desktop\\Guia4\\Guia4\\carreras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E25DFFF-088A-4D96-B4A5-475B84D795A6}|Guia4.csproj|solutionrelative:carreras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E25DFFF-088A-4D96-B4A5-475B84D795A6}|Guia4.csproj|c:\\users\\p1\\desktop\\guia4\\guia4\\alumnometodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E25DFFF-088A-4D96-B4A5-475B84D795A6}|Guia4.csproj|solutionrelative:alumnometodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E25DFFF-088A-4D96-B4A5-475B84D795A6}|Guia4.csproj|c:\\users\\p1\\desktop\\guia4\\guia4\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E25DFFF-088A-4D96-B4A5-475B84D795A6}|Guia4.csproj|solutionrelative:alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E25DFFF-088A-4D96-B4A5-475B84D795A6}|Guia4.csproj|c:\\users\\p1\\desktop\\guia4\\guia4\\guia4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E25DFFF-088A-4D96-B4A5-475B84D795A6}|Guia4.csproj|solutionrelative:guia4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Guia4",
+              "DocumentMoniker": "C:\\Users\\P1\\Desktop\\Guia4\\Guia4\\Guia4.csproj",
+              "RelativeDocumentMoniker": "Guia4.csproj",
+              "ToolTip": "C:\\Users\\P1\\Desktop\\Guia4\\Guia4\\Guia4.csproj",
+              "RelativeToolTip": "Guia4.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-12T19:23:04.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlumnoMetodos.cs",
+              "DocumentMoniker": "C:\\Users\\P1\\Desktop\\Guia4\\Guia4\\AlumnoMetodos.cs",
+              "RelativeDocumentMoniker": "AlumnoMetodos.cs",
+              "ToolTip": "C:\\Users\\P1\\Desktop\\Guia4\\Guia4\\AlumnoMetodos.cs",
+              "RelativeToolTip": "AlumnoMetodos.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAACMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:23:29.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Carreras.cs",
+              "DocumentMoniker": "C:\\Users\\P1\\Desktop\\Guia4\\Guia4\\Carreras.cs",
+              "RelativeDocumentMoniker": "Carreras.cs",
+              "ToolTip": "C:\\Users\\P1\\Desktop\\Guia4\\Guia4\\Carreras.cs",
+              "RelativeToolTip": "Carreras.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T02:40:20.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\P1\\Desktop\\Guia4\\Guia4\\Alumno.cs",
+              "RelativeDocumentMoniker": "Alumno.cs",
+              "ToolTip": "C:\\Users\\P1\\Desktop\\Guia4\\Guia4\\Alumno.cs",
+              "RelativeToolTip": "Alumno.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T02:31:44.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Universidad.cs",
+              "DocumentMoniker": "C:\\Users\\P1\\Desktop\\Guia4\\Guia4\\Universidad.cs",
+              "RelativeDocumentMoniker": "Universidad.cs",
+              "ToolTip": "C:\\Users\\P1\\Desktop\\Guia4\\Guia4\\Universidad.cs",
+              "RelativeToolTip": "Universidad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T02:18:40.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\P1\\Desktop\\Guia4\\Guia4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\P1\\Desktop\\Guia4\\Guia4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T02:17:47.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
